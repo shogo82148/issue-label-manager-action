@@ -7,7 +7,7 @@
   "author": "Benjamin Lannon <benjamin@lannonbr.com>",
   "license": "MIT",
   "scripts": {
-    "build": "ncc build index.js -o lib -m"
+    "build": "ncc build index.js -o lib"
   },
   "engines": {
     "node": ">=24"
